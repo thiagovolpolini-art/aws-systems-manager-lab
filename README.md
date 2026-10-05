@@ -53,4 +53,4 @@ dashboard/show-beta-features
 
 Ao final do laboratório, consegui instalar e gerenciar uma aplicação web utilizando os recursos do AWS Systems Manager.
 
-![AWS Systems Manager Lab](aws-systems-manager-lab.png.png)
+![AWS Systems Manager Lab](aws-systems-manager-lab.png)
