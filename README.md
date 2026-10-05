@@ -46,5 +46,11 @@ Tudo foi realizado sem conexão SSH.
 
 Criei o parâmetro:
 
-```text
-/dashboard/show-beta-features****
+text
+dashboard/show-beta-features
+
+## Resultado
+
+Ao final do laboratório, consegui instalar e gerenciar uma aplicação web utilizando os recursos do AWS Systems Manager.
+
+![AWS Systems Manager Lab](images/aws-systems-manager-lab.png)
